@@ -1,0 +1,3 @@
+[submodule "sowm-tuhkis"]
+	path = sowm-tuhkis
+	url = https://github.com/Tuhkis/sowm-tuhkis.git
