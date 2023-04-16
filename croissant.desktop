@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Croissant
+Comment=The Croissant desktop shell.
+Exec=croissant-session
+Type=Application
+

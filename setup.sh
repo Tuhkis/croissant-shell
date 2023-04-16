@@ -3,6 +3,7 @@
 mkdir /usr/share/croissant-shell
 mkdir /usr/share/croissant-shell/conf
 cp picom.conf /usr/share/croissant-shell/conf/
+cp croissant.desktop /usr/share/xsessions/
 
 cd sowm-tuhkis
 make
